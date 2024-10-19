@@ -1,3 +1,4 @@
+#include "pch.h" 
 #include "D:\BSUIR\2 курс\ППОИС\ЛР 2\PPOISLab2\Baggage.h"
 #include "D:\BSUIR\2 курс\ППОИС\ЛР 2\PPOISLab2\Baggage.cpp"
 
