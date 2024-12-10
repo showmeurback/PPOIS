@@ -1,6 +1,6 @@
 #include "pch.h"
 #include <gtest/gtest.h>
-#include "D:\BSUIR\2 êóğñ\ÏÏÎÈÑ\ËĞ 4\PPOISLab4\OrientedGraph.h"
+#include "D:\BSUIR\2 ÃªÃ³Ã°Ã±\ÃÃÃÃˆÃ‘\Ã‹Ã 4\PPOISLab4\OrientedGraph.h"
 
 class OrientedGraphTest : public ::testing::Test {
 protected:
